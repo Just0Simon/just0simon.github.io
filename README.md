@@ -2,7 +2,6 @@
 
 **Unity Game Developer**  
 Kyiv, Ukraine  
-[GitHub: Just0Simon](https://github.com/Just0Simon) | [Portfolio Website](https://just0simon.github.io) | hoina.ivan@gmail.com
 
 ---
 
@@ -44,7 +43,7 @@ A technical demonstration of advanced Unity multiplayer development, built as a 
 - Unity (2 years), C#, Git, UI, DI
 - Multiplayer Networking (Netcode for GameObjects, Photon Fusion)
 - AI Pathfinding, Unity Physics, Optimization
-- Scriptable Objects, Design Patterns, SOLID, OCP
+- Scriptable Objects, Design Patterns, SOLID
 - Tweening, Animations, Shader Graph, AdMob, Firebase, IAPs
 - Teamwork, Communication
 
