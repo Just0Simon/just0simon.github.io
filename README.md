@@ -1,7 +1,7 @@
 # Ivan Hoina | Unity Game Developer Portfolio
 
-**Unity Game Developer | Kyiv, Ukraine**  
-[GitHub: Just0Simon](https://github.com/Just0Simon) | [Portfolio Website](https://just0simon.github.io) | hoina_ivan@ukr.net
+**Unity Game Developer** | **Kyiv, Ukraine** |
+[GitHub: Just0Simon](https://github.com/Just0Simon) | [Portfolio Website](https://just0simon.github.io) | hoina.ivan@gmail.com
 
 ---
 
