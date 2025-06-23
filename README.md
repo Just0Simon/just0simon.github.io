@@ -2,6 +2,7 @@
 
 **Unity Game Developer**  
 Kyiv, Ukraine  
+hoina.ivan@gmail.com
 
 ---
 
