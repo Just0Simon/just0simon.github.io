@@ -38,7 +38,7 @@ A technical demonstration of advanced Unity multiplayer development, built as a 
 
 > **Repository:** [View on GitHub](https://github.com/Just0Simon/LocalMultiplayer)
 
-### 🏃‍♂️ 3D Endless Runner (Unity)
+### 🏃‍♂️ 3D Runner (Unity)
 A simple one level 3D runner developed in Unity as a test assignment. The project demonstrates modular code structure, clean C# practices, and a responsive UI, built with minimal dependencies and custom/built-in Unity assets.
 
 **Key Features:**
