@@ -1,13 +1,13 @@
 # Ivan Hoina | Unity Game Developer Portfolio
 
 **Unity Game Developer**  
-Kyiv, Ukraine  
+Warsaw, Poland  
 hoina.ivan@gmail.com
 
 ---
 
 ## About Me
-Unity Game Developer with 2 years of experience specializing in multiplayer, AI, and clean code architecture. I am passionate about creating engaging, innovative games and continuously improving my skills. My focus is on delivering robust, maintainable solutions using Unity and C#.
+Unity Game Developer with 2 years of experience in mobile and PC game development. Skilled in gameplay programming, optimization, and Unity architecture design. Proven ability to deliver prototypes, update legacy projects, and publish full games. Passionate about creating engaging player experiences and bringing ideas from concept to release.
 
 ---
 
@@ -38,6 +38,31 @@ A technical demonstration of advanced Unity multiplayer development, built as a 
 
 > **Repository:** [View on GitHub](https://github.com/Just0Simon/LocalMultiplayer)
 
+### 🏃‍♂️ 3D Endless Runner (Unity)
+A simple one level 3D runner developed in Unity as a test assignment. The project demonstrates modular code structure, clean C# practices, and a responsive UI, built with minimal dependencies and custom/built-in Unity assets.
+
+**Key Features:**
+- Auto-run forward movement with strafe & jump controls (swipe/mouse drag)
+- Obstacles: spikes, walls, barriers, mines
+- Coin system with animated collection & score counter
+- Main menu, in-game HUD, game over screen with retry/exit
+- Responsive UI for multiple screen sizes
+- Bonus: coin VFX & obstacle collision effects
+
+**Highlights:**
+- Clean modular architecture (PlayerController, GameManager, UIManager, CollectibleManager)
+- Loose coupling via events/ScriptableObjects
+- Unity 6000.0.42f1 LTS, tested on Android & Unity Editor
+
+<p align="center">
+  <a href="https://youtube.com/shorts/JikqrJJeYR8?feature=share">
+    <img src="https://github.com/Just0Simon/Runner/blob/main/Images/Runner_general.jpg?raw=true" alt="3D Runner Gameplay Preview" width="320" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  </a>
+</p>
+<p align="center"><em>3D Runner gameplay preview. Click to watch the gameplay video.</em></p>
+
+> **Repository:** [View on GitHub](https://github.com/Just0Simon/Runner)
+
 ---
 
 ## Skills
@@ -51,12 +76,15 @@ A technical demonstration of advanced Unity multiplayer development, built as a 
 ---
 
 ## Work Experience
+**Unity Developer** | *Wild Wild Group* | Remote | Aug 2025 – Sep 2025  
+
+- Developed and published 2 hyper-casual games for iOS devices.  
+- Managed the entire development cycle: ideation, prototyping, implementation, optimization, and release in the Apple App Store.  
+- Gained experience with the complete production pipeline for iOS mobile games.  
+
 **Unity Developer** | EJAW, Remote | Oct 2024 - Jan 2025  
 - Led the technical upgrade of 6 commercial Unity projects from legacy (2017-2019) to Unity 2022, ensuring seamless migration, full feature parity, and zero regression bugs.
 - Restored and optimized project functionality for modern platforms, resulting in successful Google Play releases.
-
-**Game Development Teacher** | GoITeens, Remote | Nov 2023 - Aug 2024  
-- Conducted Unity game development classes for students, checked assignments, and provided support on course materials.
 
 **Unity Game Developer** | 24PLAY, Kyiv | Feb 2022 - Sep 2022  
 - Developed 8 hyper-casual prototypes in a fast-paced team, driving ideation, rapid prototyping, and gameplay iteration.
