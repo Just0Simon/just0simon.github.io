@@ -2,7 +2,7 @@
 
 **Unity Game Developer**  
 Warsaw, Poland  
-hoina.ivan@gmail.com
+Remote across the EEA
 
 ---
 
@@ -105,16 +105,21 @@ A simple one level 3D runner developed in Unity as a test assignment. The projec
 ---
 
 ## Work Experience - over 2 years
+
 **Junior Unity Developer** – Wild Wild Group, Remote | Aug 2025 – Present (Parttime since Sep 2025)
 Developed and published hyper-casual iOS games, managing the full production cycle from concept and prototyping to optimization and App Store release. Implemented gameplay mechanics, user interfaces, and integrated third-party SDKs. Optimized games for performance and mobile devices.
+
 **Lead Unity Developer for Game Jam** – Self-organized Game Jam Team, Remote | Jan 2025 – Feb 2025
 Coordinated a team of five to develop a 3D first-person horror puzzle prototype under time constraints.Implemented core gameplay mechanics and collaborated closely with designers and artists. Delivered a fully playable prototype within the game jam deadline.
+
 **Unity Developer on project** – EJAW, Remote | Oct 2024 – Jan 2025
 Maintained and updated existing Unity projects, releasing updates on Google Play. Fixed post-migration issues and updated SDKs to latest versions. Improved project stability and ensured smooth functionality after platform
 updates. 
+
 **Game Development Teacher** – GoITeens, Remote | Nov 2023 – Aug 2024
 Taught Unity development to teenagers, creating educational materials and guiding students through their first playable projects. Mentored students in implementing
 gameplay mechanics, UI, and simple controls. Facilitated learning processes and project-based outcomes for 10–15 students per session.
+
 **Unity Game Developer (Strong Junior)** – 24Play, Kyiv | Feb 2022 – Sep 2022
 Developed 5+ hyper-casual games in collaboration with designers and project managers. Implemented gameplay mechanics, UI, animations, SDK integrations, optimized mobile performance, and released commercially.
 
