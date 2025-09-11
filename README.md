@@ -4,7 +4,7 @@
 
 On-site in Warsaw  
 Remote across the EEA
-LinkedIn: <a href="https://www.linkedin.com/in/ivan-hoina/">linkedin.com/in/ivan-hoina/</a>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/ivan-hoina/">linkedin.com/in/ivan-hoina/</a>
 
 ---
 
