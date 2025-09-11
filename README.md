@@ -1,9 +1,9 @@
 # Ivan Hoina | Unity Game Developer Portfolio
 
 **Unity Game Developer**  
-Warsaw, Poland  
+On-site in Warsaw  
 Remote across the EEA
-
+LinkedIn: [linkedin.com/in/ivan-hoina/](https://www.linkedin.com/in/ivan-hoina/)
 ---
 
 ## About Me
