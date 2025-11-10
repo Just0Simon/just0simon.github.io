@@ -98,12 +98,13 @@ A simple one level 3D runner developed in Unity as a test assignment. The projec
 - Unity, C#, OOP, SOLID, Dependency Injection, Scriptable Objects Architecture Pattern, Git
 - Multiplayer Networking (Netcode for GameObjects, Photon Fusion)
 - Unity Physics, AI, AI Assistance, UI Canvas,  Animations, Tweening, Shader Graph,  Unity Game Services, Firebase, In-App Purchases, Mobile Performance Optimization
+- DOTween, Zenject, Odin Inspector, ScriptableObject Architecture Pattern
 
 ##### **Soft Skills**
-  Problem-solving, teamwork, 
-  Communication, adaptability
-  Mentoring, teaching
-  Independence, responsibility
+  - Problem-solving, teamwork, 
+  - Communication, adaptability
+  - Mentoring, teaching
+  - Independence, responsibility
 
 ---
 
@@ -135,4 +136,6 @@ Bachelor in Information Systems and Technologies at State University of Informat
 
 ## Languages
 - Ukrainian (native)
+- Polish (A1)
 - English (B2)
+- Russian (C1)
