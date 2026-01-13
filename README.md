@@ -2,19 +2,17 @@
 
 ### **Unity Game Developer**  
 
-On-site in Warsaw  
-Remote across the EEA
-
+Warsaw, Poland | Open to Remote  
 LinkedIn: [linkedin.com/in/ivan-hoina/](https://www.linkedin.com/in/ivan-hoina/)
 
 ---
 
 ## About Me
-Unity Game Developer with 2 years of experience in mobile and PC game development. Skilled in gameplay programming, optimization, and Unity architecture design. Proven ability to deliver prototypes, update legacy projects, and publish full games. Passionate about creating engaging player experiences and bringing ideas from concept to release.
+Unity Game Developer with 3+ years of experience in mobile and PC game development. Specialized in hyper-casual games, gameplay programming, UI development, and performance optimization. Proven ability to deliver prototypes, update legacy projects, and publish full games. Passionate about creating engaging player experiences and bringing ideas from concept to release.
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🕹️ Local Multiplayer Arena (Unity, Netcode for GameObjects)
 A technical demonstration of advanced Unity multiplayer development, built as a test assignment for a Unity developer role. This project showcases a local multiplayer game with a Host-Client architecture, server-authoritative logic, and real-time synchronization using Netcode for GameObjects.
@@ -41,33 +39,37 @@ A technical demonstration of advanced Unity multiplayer development, built as a 
 
 > **Repository:** [View on GitHub](https://github.com/Just0Simon/LocalMultiplayer)
 
+---
+
 ### ⚫ The Abyssal Truth
 
-**Experience**
+**Experience**  
 Led a team of five in developing a 3D first-person horror puzzle prototype set in a laboratory on an island. Worked alongside a game designer, an art generalist, and two supporting developers, coordinating task distribution and ensuring smooth collaboration. Took the lead on gameplay implementation and guided developers through solving core technical challenges.
 
 **Key Features:**
-- First person controller
-- Level design. Underground and ground levels.
-- Sound and visual effects for deeper gameplay.
+- First-person controller
+- Level design with underground and ground levels
+- Sound and visual effects for immersive gameplay
 - Main menu, in-game HUD
-- Complex system that monitor state of all devices in laboratory and provide player information
-- Broken devices can be fixed but players should separate truth from lies to determine what is broken
+- Complex system that monitors state of all devices in laboratory and provides player information
+- Broken devices can be fixed, but players must separate truth from lies to determine what is broken
 
-**Project version**
+**Project version**  
 Unity 6000.0.25f1, tested on Windows 11
 
 <p align="center">
   <a href="https://globalgamejam.org/games/2025/abyssal-truth-7">
-    <img src="https://just0simon.github.io\projects\theAbyssalTruth\preview.jpg" alt="The Abyssal Truth Gameplay Preview" width="600" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+    <img src="https://just0simon.github.io/projects/theAbyssalTruth/preview.jpg" alt="The Abyssal Truth Gameplay Preview" width="600" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
   </a>
 </p>
 <p align="center"><em>The Abyssal Truth gameplay preview. <br>Click to view the game jam project page.</em></p>
 
 > **Repository:** [View on GitHub](https://github.com/MelnichukEugeniy/GlobalGameJam2/tree/main)
 
+---
+
 ### 🏃‍♂️ 3D Runner (Unity)
-A simple one level 3D runner developed in Unity as a test assignment. The project demonstrates modular code structure, clean C# practices, and a responsive UI, built with minimal dependencies and custom/built-in Unity assets.
+A simple one-level 3D runner developed in Unity as a test assignment. The project demonstrates modular code structure, clean C# practices, and a responsive UI, built with minimal dependencies and custom/built-in Unity assets.
 
 **Key Features:**
 - Auto-run forward movement with strafe & jump controls (swipe/mouse drag)
@@ -94,48 +96,54 @@ A simple one level 3D runner developed in Unity as a test assignment. The projec
 ---
 
 ## Skills
-##### **Technical Skills**
-- Unity, C#, OOP, SOLID, Dependency Injection, Scriptable Objects Architecture Pattern, Git
-- Multiplayer Networking (Netcode for GameObjects, Photon Fusion)
-- Unity Physics, AI, AI Assistance, UI Canvas,  Animations, Tweening, Shader Graph,  Unity Game Services, Firebase, In-App Purchases, Mobile Performance Optimization
-- DOTween, Zenject, Odin Inspector, ScriptableObject Architecture Pattern
 
-##### **Soft Skills**
-  - Problem-solving, teamwork, 
-  - Communication, adaptability
-  - Mentoring, teaching
-  - Independence, responsibility
+### **Technical Skills**
+- **Core:** Unity, C#, OOP, SOLID, Data Structures, Dependency Injection, Git
+- **Unity Specializations:** Unity Physics, AI Navigation, UI Canvas, Animations, Tweening, Shader Graph, Scriptable Objects Architecture Pattern
+- **Networking:** Netcode for GameObjects, Photon Fusion
+- **Tools & Services:** Unity Game Services, Firebase, In-App Purchases, DOTween, Zenject, Odin Inspector
+- **Platforms:** Mobile Game Development, iOS Development, Android Development, Mobile Performance Optimization
+
+### **Soft Skills**
+- Problem-solving, teamwork, communication, adaptability
+- Mentoring, teaching, independence, responsibility
 
 ---
 
-## Work Experience - over 2 years
+## Professional Experience
 
-**Junior Unity Developer** – Wild Wild Group, Remote | Aug 2025 – Present (Parttime since Sep 2025)
+**Unity Developer** – Wild Wild Group, Remote | Aug 2025 – Oct 2025  
 Developed and published hyper-casual iOS games, managing the full production cycle from concept and prototyping to optimization and App Store release. Implemented gameplay mechanics, user interfaces, and integrated third-party SDKs. Optimized games for performance and mobile devices.
 
-**Lead Unity Developer for Game Jam** – Self-organized Game Jam Team, Remote | Jan 2025 – Feb 2025
-Coordinated a team of five to develop a 3D first-person horror puzzle prototype under time constraints.Implemented core gameplay mechanics and collaborated closely with designers and artists. Delivered a fully playable prototype within the game jam deadline.
+**Unity Developer** – Game Jam Team, Remote | Jan 2025 – Feb 2025  
+Coordinated a team of five to develop a 3D first-person horror puzzle prototype under time constraints. Implemented core gameplay mechanics and collaborated closely with designers and artists. Delivered a fully playable prototype within the game jam deadline.
 
-**Unity Developer on project** – EJAW, Remote | Oct 2024 – Jan 2025
-Maintained and updated existing Unity projects, releasing updates on Google Play. Fixed post-migration issues and updated SDKs to latest versions. Improved project stability and ensured smooth functionality after platform
-updates. 
+**Unity Developer** – EJAW, Remote | Oct 2024 – Jan 2025 | Project-based  
+Maintained and updated existing Unity projects, releasing updates on Google Play Store. Fixed post-migration issues and updated SDKs to latest versions. Improved project stability and ensured smooth functionality after platform updates.
 
-**Game Development Teacher** – GoITeens, Remote | Nov 2023 – Aug 2024
-Taught Unity development to teenagers, creating educational materials and guiding students through their first playable projects. Mentored students in implementing
-gameplay mechanics, UI, and simple controls. Facilitated learning processes and project-based outcomes for 10–15 students per session.
+**Unity Developer** – Self-Employed, Remote | Sep 2022 – Oct 2024  
+Developed personal game projects and taught Unity development to teenagers while expanding technical expertise across multiple game genres and platforms. Developed 3D Runner prototype with modular architecture, swipe controls, obstacle systems, and responsive UI tested on Android. Created Local Multiplayer Arena using Netcode for GameObjects with Host-Client architecture.
 
-**Unity Game Developer (Strong Junior)** – 24Play, Kyiv | Feb 2022 – Sep 2022
-Developed 5+ hyper-casual games in collaboration with designers and project managers. Implemented gameplay mechanics, UI, animations, SDK integrations, optimized mobile performance, and released commercially.
+**Unity Game Developer** – 24Play, Kyiv | Feb 2022 – Sep 2022  
+Developed 8+ hyper-casual games in collaboration with designers and project managers. Implemented gameplay mechanics, UI, animations, SDK integrations, optimized mobile performance, and released commercially.
 
 ---
 
 ## Education
-Bachelor in Information Systems and Technologies at State University of Informationand Communication Technologies, Kyiv, Ukraine | 2024
+**Bachelor in Information Systems and Technologies**  
+State University of Information and Communication Technologies, Kyiv, Ukraine | 2024
 
 ---
 
 ## Languages
-- Ukrainian (native)
-- Polish (A1)
-- English (B2)
+- Ukrainian (Native)
 - Russian (C1)
+- English (B2)
+- Polish (A2)
+
+---
+
+## Contact
+📧 Email: hoina.ivan@gmail.com   
+💼 LinkedIn: [linkedin.com/in/ivan-hoina](https://www.linkedin.com/in/ivan-hoina/)  
+🐙 GitHub: [github.com/Just0Simon](https://github.com/Just0Simon)
